@@ -4,7 +4,7 @@ var config = {
   database: "pvAPM_AutomationDB",
   user: "sa",
   password: "system",
-  server: "DESKTOP-27TFO05\\SQLEXPRESS",
+  server: "SIDHANT\\SQLEXPRESS",
   driver: "msnodesqlv8",
   options: {
     trustedConnection: true,
